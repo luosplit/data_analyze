@@ -1,0 +1,3 @@
+name	age	time	job
+alex	44	2022-11-01 13:43:22.000	teacher
+bob	22	2021-01-01 12:22:21.000	student
